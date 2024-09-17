@@ -1,1 +1,1 @@
-# Linear_Regression_from_Scratch
+Implementation of Linear Regression from Scratch using only Python and numpy library
